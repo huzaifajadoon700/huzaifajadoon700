@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">👋 Hi, I'm Huzaifa Jadoon</h1>
 <h2 align="center">💻 Transforming Ideas into Innovative Tech Solutions</h2>
----
 
 ## ✨ About Me
 
