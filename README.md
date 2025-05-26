@@ -11,7 +11,6 @@
 - 🚀 Passionate about building apps with **MERN stack** & **Flutter**  
 - 🤝 Open to collaborations on exciting tech projects  
 - 📫 Email me at: **huzaifakhanjadoon80@gmail.com**  
-- 🎧 *Fun fact:* Coding hits differently with music – my keyboard becomes a drum kit! 🥁
 
 ---
 
