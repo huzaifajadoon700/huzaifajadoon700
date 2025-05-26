@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Jadoon</h1>
-<h3 align="center">🚀 Engineering Digital Solutions One Line of Code at a Time</h3>
+<h3 align="center">🚀 Transforming Ideas into Innovative Tech Solutions</h3>
 
 ---
 
